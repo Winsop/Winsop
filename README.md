@@ -32,7 +32,7 @@
 ## 📫 Let's Connect!
 
 - 📧 winstenbanji@gmail.com  
-- 🖇️ [LinkedIn](https://www.linkedin.com/) (coming soon)  
+- 🖇️ [LinkedIn](https://www.linkedin.com/) https://www.linkedin.com/in/winsten-banji/
 - 🙏 Faith + Code = Purpose  
 
 
