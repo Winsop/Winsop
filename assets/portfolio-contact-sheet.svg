@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="227" viewBox="0 0 960 227">
+<title>Behind the lens: illustrated contact sheet</title>
+<desc>Two stylized film frames, one with a warm beam and one with a purple horizon reflected in water.</desc>
+<defs>
+ <linearGradient id="a" x2="0" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#191b39"/><stop offset="1" stop-color="#45313c"/></linearGradient>
+ <linearGradient id="b" x2="0" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#24254c"/><stop offset="1" stop-color="#0f2439"/></linearGradient>
+ <linearGradient id="beam" x2="0" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#fbbe62"/><stop offset="1" stop-color="#e77957" stop-opacity=".2"/></linearGradient>
+ <pattern id="holes" width="40" height="10" patternUnits="userSpaceOnUse"><rect x="8" y="2" width="17" height="6" rx="2" fill="#53707b"/></pattern>
+</defs>
+<rect width="960" height="227" rx="18" fill="#102432"/>
+<text x="25" y="31" fill="#a7eef0" font-family="monospace" font-size="16" font-weight="bold" letter-spacing="2">FIELD NOTES / CONTACT SHEET</text>
+<rect x="25" y="43" width="910" height="10" fill="url(#holes)"/>
+<rect x="25" y="61" width="446" height="125" rx="8" fill="url(#a)"/>
+<rect x="489" y="61" width="446" height="125" rx="8" fill="url(#b)"/>
+<path d="M96 62h92l160 123H120z" fill="url(#beam)"/>
+<path d="M25 169l83-27 68 19 77-13 97 23 64-19 57 13v20H25z" fill="#281e31" opacity=".57"/>
+<circle cx="695" cy="104" r="21" fill="#f2c0ca"/>
+<path d="M489 144l65-26 50 14 58-35 62 35 43-22 72 22 96-17v70H489z" fill="#36386b"/>
+<path d="M489 148H935v38H489z" fill="#202e53"/>
+<g stroke="#ba9cdd" stroke-linecap="round" opacity=".7"><path d="M658 153h76m-89 7h106m-79 8h53m-42 7h34"/><path d="M558 172h67m189 5h77" opacity=".45"/></g>
+<text x="34" y="83" fill="#ffe5b4" font-family="monospace" font-size="15" font-weight="bold">01 / LIGHT</text>
+<text x="500" y="83" fill="#e6d4ff" font-family="monospace" font-size="15" font-weight="bold">02 / REFLECTION</text>
+<rect x="25" y="195" width="910" height="10" fill="url(#holes)"/>
+</svg>
