@@ -1,34 +1,51 @@
-<h1 align="center">Winsten Banji</h1>
-<p align="center"><strong>Code, circuits, and a camera.</strong></p>
-<p align="center">
-  Cyber Physical Systems student at MIT Manipal<br>
-  <a href="https://www.linkedin.com/in/winsten-banji-1865322aa/">LinkedIn</a> ·
-  <a href="mailto:winstenbanji@gmail.com">Email</a>
-</p>
+# Winsten Banji
+
+![An illustrated camera aperture with circuit traces. Code, circuits, and a camera.](assets/code-circuits-camera.svg)
+
+**Cyber Physical Systems student at MIT Manipal** · [LinkedIn](https://www.linkedin.com/in/winsten-banji-1865322aa/) · [Email](mailto:winstenbanji@gmail.com)
+
+I build software that connects sensors, devices, and people. Behind the camera, I look for the details that disappear when you move too fast.
 
 ---
 
-I build software that can read, respond to, and make sense of the physical world. I work mostly with TypeScript, React, Node.js, Python, and ESP32.
+## 01 / On the workbench
 
-### On the workbench
+| Project | What to look for |
+| :--- | :--- |
+| **[SMART CURE](https://github.com/Winsop/SMART-CURE)** | An ESP32 concrete-curing prototype with a serial bridge and a React dashboard. [See the simulated dashboard and probe-fault demo](https://github.com/Winsop/SMART-CURE#dashboard-demo). |
+| **[Number Clash](https://github.com/Winsop/Number-Clash)** | A real-time two-player deduction game with server-validated turns and session recovery. [See the arena and match results](https://github.com/Winsop/Number-Clash#demo). |
+| **[Study Ally Pro](https://github.com/Winsop/Study-Ally-2.0)** | A study workspace for subjects, revision, and focus sessions. Co-built with [Shashank B M](https://github.com/shashankbm666). |
 
-| Project | What it does |
-| --- | --- |
-| **[SMART CURE](https://github.com/Winsop/SMART-CURE)** | Follows concrete curing from the sensor to the screen: ESP32 firmware, a telemetry bridge, and a dashboard with separate live and simulation modes. |
-| **[Number Clash](https://github.com/Winsop/Number-Clash)** | A real-time, two-player deduction game with server-validated turns and a reconnection window. |
-| **[Study Ally Pro](https://github.com/Winsop/Study-Ally-2.0)** | A study planner for subjects, revision, and focus sessions, co-built with [Shashank B M](https://github.com/shashankbm666). |
+## 02 / Toolbox
 
-### Behind the lens
-
-I photograph light, shadow, and the details that are easy to walk past. I was part of the Photography & Videography team on the TechTatva ’26 Organising Committee.
+**Build** · TypeScript · React · Node.js · Python  
+**Prototype** · ESP32 · Arduino · Sensor interfacing  
+**Explore** · IoT · Digital logic · Signal measurement
 
 <details>
-<summary>Smaller builds and experiments</summary>
+<summary><strong>Open the experiment drawer</strong></summary>
 
-- [Modern GUI Calculator](https://github.com/Winsop/Modern-GUI-Calculator): a Python desktop app with a separate calculation engine.
-- [FocusHelper](https://github.com/Winsop/Web-extension-v2): a browser extension prototype with reading and focus tools.
-- [Python Projects](https://github.com/Winsop/Python-Projects): exercises from when I was getting comfortable with Python.
+- [Modern GUI Calculator](https://github.com/Winsop/Modern-GUI-Calculator) · A Python desktop calculator with a separate expression engine.
+- [FocusHelper](https://github.com/Winsop/Web-extension-v2) · A browser extension prototype for reading and focus.
+- [Python Projects](https://github.com/Winsop/Python-Projects) · Small exercises from my early Python work.
 
 </details>
 
-<p align="center"><em>“I am the way, the truth, and the life.”</em> · John 14:6</p>
+## 03 / Behind the lens
+
+I photograph the way light lands on ordinary scenes. I was part of the **Photography & Videography** team on the TechTatva ’26 Organising Committee.
+
+| Contact sheet | Frame |
+| :--- | :--- |
+| **01 / Light** | *A World Pauses Under One Beam of Light* |
+| **02 / Reflection** | *Between Shadow and Reflection* |
+
+<!-- Add only photos selected for public display. Keep captions and alt text with each image. -->
+
+## 04 / Find me
+
+[Repositories](https://github.com/Winsop?tab=repositories) · [GitHub activity](https://github.com/Winsop#js-contribution-activity) · [LinkedIn](https://www.linkedin.com/in/winsten-banji-1865322aa/)
+
+> “I am the way, the truth, and the life.” · John 14:6
+
+<!-- Layout inspiration: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
